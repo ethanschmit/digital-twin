@@ -1,0 +1,21 @@
+{
+    "full_name": "Ethan Schmit",
+    "name": "Ethan",
+    "current_role": "Data Scientist at Ecentric Payment Systems",
+    "location": "Cape Town, South Africa",
+    "email": "ethanschmit7@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/ethan-schmit-frm-87019886/",
+    "specialties": [
+      "Statistics / machine learning / deep learning",
+      "AI / LLM engineering",
+      "Relationship building"
+    ],
+    "years_experience": 12,
+    "education": [
+      {
+        "degree": "MCom in Statistics / Data Science",
+        "institution": "University of Pretoria",
+        "year": "2019"
+      }
+    ]
+  }
